@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://count.getloli.com/@4levy?name=4levy&theme=booru-qualityhentais" alt="Profile Visitor Count">
+  <img src="https://count.getloli.com/getoit?name=4levy&theme=booru-qualityhentais" alt="Profile Visitor Count">
 </div>
 
 ---
