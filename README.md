@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm getoit! 👨‍💻
-🇮🇩 Independent Backend Developer crafting robust and scalable solutions from the heart of Indonesia.
+🇮🇩 Independent Backend Developer crafting robust and scalable solutions from the heart of Indonesia.<br>
 💻 Passionate about building efficient and reliable backend systems that power meaningful applications.
 
 🌱 Currently diving deeper into [mention 1-2 specific backend technologies or areas you're learning, e.g., distributed systems, cloud-native development, specific programming languages like Go or Rust]. Always eager to expand my knowledge and embrace new challenges in the ever-evolving tech landscape.
